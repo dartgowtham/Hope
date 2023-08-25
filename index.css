@@ -275,6 +275,9 @@ form{
         flex-direction: column;
         align-items: center;
     }
+    .footer img{
+        margin-left:50px;
+        }
     .footer{
         flex-direction: column;
         align-items: center;
