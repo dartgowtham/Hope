@@ -235,12 +235,12 @@ form{
         font-size: larger;
     }
     #about p{
-        width:300px;
-        font-size: small;
+        width:350px;
+        font-size: medium;
     }
     #grade p{
-        width: 300px;
-        font-size: small;
+        width: 350px;
+        font-size: medium;
     }
     header{
         display: flex;
@@ -284,6 +284,9 @@ form{
         font-size: 15px;
        
      }
+    footer-about img{
+        margin-left:50px;
+    }
    
      .footer-contact{
 
