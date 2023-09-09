@@ -90,6 +90,8 @@ a{
 }
 
 
+
+
 .grade{
     margin-top: 30px;
     display: flex;
@@ -243,6 +245,7 @@ form{
     .title{
       text-align: center;
       font-size: large;
+      font-weight: bold;
     }
     .subtitle{
         font-size: larger;
@@ -253,7 +256,7 @@ form{
     }
     #grade p{
         width: 300px;
-        font-size: small;
+        font-size: 19px;
     }
     header{
         display: flex;
@@ -314,6 +317,13 @@ form{
         width: 250px;
         height: 300px;
         padding: 20px;
+        
+     }
+     .gallery{
+        width:100%;
+        display: flex;
+        justify-content: center;
+        padding: 10px;
      }
 }
 
