@@ -6,6 +6,9 @@
 .card{
     background-image: url('Img/cardbg.png');
 }
+.card:hover{
+    box-shadow:0px 0px 0px 30px green;
+}
 .footer-nav a
 {
     text-decoration:none;
