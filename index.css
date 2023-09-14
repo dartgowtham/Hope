@@ -7,7 +7,7 @@
     background-image: url('Img/cardbg.png');
 }
 .card:hover{
-    box-shadow:0px 0px 10px 30px green;
+    box-shadow:0px 0px 20px 15px lightblue;
 }
 .footer-nav a
 {
