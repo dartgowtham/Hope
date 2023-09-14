@@ -3,7 +3,9 @@
     border: 0;
     padding:0 ;
 }
-
+.card{
+    background-image: url('Img/cardbg.png');
+}
 .footer-nav a
 {
     text-decoration:none;
